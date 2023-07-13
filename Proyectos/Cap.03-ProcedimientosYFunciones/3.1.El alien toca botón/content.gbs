@@ -3,7 +3,7 @@
               moviendo al Alien hasta el botón y tocando el botón
    PRECONDICIONES: 
      Hay un Alien representado en la celda inicial, y un botón
-	 representado 3 celdas al Este de la celda inicial
+	   representado 3 celdas al Este de la celda inicial
 */
 program {
     
