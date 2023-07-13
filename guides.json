@@ -1,11 +1,12 @@
 [ 
-  { "name": "Cap.03"         , "repo": "gobstonescursos/Libro-CFProg-Proyectos",
-    "homeLink": "",
-    "exercises": [
-      { "id": "3.1",        "name": "El alien toca botón",
+  { "name": "Cap.03"                                
+  , "repo": "gobstonescursos/Libro-CFProg-Proyectos"
+  ,  "homeLink": ""     
+  ,  "exercises": [
+      { "id": "3.1"                                 , "name": "El alien toca botón",
         "path": "Proyectos/Cap.03-ProcedimientosYFunciones/3.1.El alien toca botón"
       }
-    , { "id": "3.2",        "name": "Armamos 'El alien toca botón'",
+    , { "id": "3.2"                                 , "name": "Armamos 'El alien toca botón'",
         "path": "Proyectos/Cap.03-ProcedimientosYFunciones/3.2.Armamos 'El alien toca botón'"
       }
    ] }
